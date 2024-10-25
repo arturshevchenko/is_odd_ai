@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Environment files for sensitive data (e.g., OpenAI API key)
+.env
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
+coverage.xml
+
+# Virtual environments
+venv/
+
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# macOS system files
+.DS_Store
+
